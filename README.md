@@ -6,7 +6,9 @@ An Unreal Engine 5.6+ plugin that provides Timeline functionality for any UObjec
 1. Clone this repository into your project's `Plugins` folder
 2. Regenerate project files
 3. Build the project
+___
 OR
+___
 1. Download packaged version of the plugin in releases.
 2. Copy to your project's `Plugins` folder
 3. Enjoy!
